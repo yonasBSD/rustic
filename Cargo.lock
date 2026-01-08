@@ -4408,7 +4408,7 @@ dependencies = [
 [[package]]
 name = "rustic_backend"
 version = "0.5.4"
-source = "git+https://github.com/yonasBSD/rustic_core?branch=fix%2Fpanic-snapshots#0068c7948664cd77ba94bc99ee13439eaab156c1"
+source = "git+https://github.com/yonasBSD/rustic_core?branch=fix%2Fpanic-snapshots#60f86b8bf5629b6d07d4760aa96293bb24268574"
 dependencies = [
  "aho-corasick",
  "backon",
@@ -4447,7 +4447,7 @@ checksum = "fbcebf2228827bc4b61cb54dfd84cf43aacf06ca2dfe4c014b136a0e32b876e2"
 [[package]]
 name = "rustic_core"
 version = "0.9.0"
-source = "git+https://github.com/yonasBSD/rustic_core?branch=fix%2Fpanic-snapshots#0068c7948664cd77ba94bc99ee13439eaab156c1"
+source = "git+https://github.com/yonasBSD/rustic_core?branch=fix%2Fpanic-snapshots#60f86b8bf5629b6d07d4760aa96293bb24268574"
 dependencies = [
  "aes256ctr_poly1305aes",
  "binrw",
@@ -4501,7 +4501,7 @@ dependencies = [
 [[package]]
 name = "rustic_testing"
 version = "0.3.4"
-source = "git+https://github.com/yonasBSD/rustic_core?branch=fix%2Fpanic-snapshots#0068c7948664cd77ba94bc99ee13439eaab156c1"
+source = "git+https://github.com/yonasBSD/rustic_core?branch=fix%2Fpanic-snapshots#60f86b8bf5629b6d07d4760aa96293bb24268574"
 dependencies = [
  "aho-corasick",
  "anyhow",
